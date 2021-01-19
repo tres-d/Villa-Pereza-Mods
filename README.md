@@ -34,8 +34,6 @@ Para hacer que minecraft disponga de 4 GB para funcionar, la linea anterior qued
 ## Instalación
 Descargamos los archivos de [/mods](/mods) y adicionalmente [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/download/3156477). 
 
-*Tambien se puede descargar [VillaPerezaMod1-0.rar](https://drive.google.com/file/d/1O09R_H9KnM6a8o2gBjmll8xcqwmd5yxI/view) que incluye todos los mods + Forge.*
-
 Ahora utilizaremos win+r y escribiremos: 
 > %appdata%
 
